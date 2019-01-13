@@ -1,5 +1,5 @@
 ---
-typora-root-url: https://github.com/cjdjr/bilibili-anime-analysis/raw/master/
+typora-root-url: images/
 ---
 
 # bilibili番剧分析
@@ -57,7 +57,7 @@ typora-root-url: https://github.com/cjdjr/bilibili-anime-analysis/raw/master/
 
 基于Flask框架的推荐系统简单网页的编写在app.py中实现。其在本地的127.0.0.1:5000生成一个推荐系统网页。
 
-![番剧搜索界面](番剧搜索界面.png)
+![番剧搜索界面](/番剧搜索界面.png)
 
 ![系统推荐的番剧](系统推荐的番剧.png)
 
