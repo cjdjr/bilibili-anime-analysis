@@ -1,5 +1,5 @@
 ---
-typora-root-url: http://github.com/cjdjr/bilibili-anime-analysis/raw/master/images/
+typora-root-url: https://github.com/cjdjr/bilibili-anime-analysis/raw/master/images/
 ---
 
 # bilibili番剧分析
