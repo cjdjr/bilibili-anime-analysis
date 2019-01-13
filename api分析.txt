@@ -1,0 +1,75 @@
+番剧索引:
+
+https://bangumi.bilibili.com/web_api/season/index_global?page=1&page_size=20&version=0&is_finish=0&start_year=2017&tag_id=&index_type=1&index_sort=0&area=0&quarter=0
+
+
+参数说明:
+
+	page : 页数
+	page_size : 页面大小，即读取页面的番剧数目
+	version : 0全部，1正片，3剧场版，4其他
+	is_finish : 0全部，1未完结，2完结
+	start_year : 0全部，具体年份直接填年份（四位数）
+    	index_type : 排序方式：0更新时间，1追番人数，2开播时间
+	index_sort : 0正序，1反序
+	area : 地区: 0全部，2日本，3美国，4其他
+	quarter : 0全部，1一月，2四月，3七月，4十月
+    	tag_id : 分类：
+        后宫 5
+        百合 6
+        少女 9
+        日常 16
+        热血 20
+        治愈 21
+        致郁 22
+        运动 23
+        少儿 24
+        泡面 44
+        奇幻 57
+        历史 67
+        搞笑 70
+        科幻 71
+        音乐 72
+        萌系 81
+        基腐 82
+        猎奇 87
+        时泪 88
+        校园 93
+        装逼 94
+        战斗 95
+        声控 98
+        智斗 103
+        催泪 104
+        机战 105
+        美食 106
+        恋爱 110
+        乙女 115
+        轻改 117
+        偶像 121
+        魔法 122
+        推理 124
+        伪娘 125
+        社团 127
+        漫改 135
+        原创 137
+        励志 138
+        神魔 139
+        职场 140
+
+	
+对api进行分析（部分参数不了解）：
+
+封面: "cover":"http://i0.hdslb.com/bfs/bangumi/ad4dc7bf7bef59255536e54fe818985b0e270d14.jpg",
+追番人数: "favorites":1095956,
+完结: "is_finish":2,
+      "newest_ep_index":"12",
+      "pub_string":"",
+出版: "pub_time":1365091201,
+番号: "season_id":"4188",
+哪个季度的番剧："season_status":2,
+标题: "title":"约会大作战",
+集数: "total_count":12,
+      "update_pattern":"",
+上传: "update_time":1490594496,
+网址: "url":"http://bangumi.bilibili.com/anime/4188",
+      "week":"-1"
