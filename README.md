@@ -1,6 +1,4 @@
----
-typora-root-url: images/
----
+
 
 # bilibili番剧分析
 
@@ -57,9 +55,9 @@ typora-root-url: images/
 
 基于Flask框架的推荐系统简单网页的编写在app.py中实现。其在本地的127.0.0.1:5000生成一个推荐系统网页。
 
-![番剧搜索界面](/番剧搜索界面.png)
+![番剧搜索界面](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/番剧搜索界面.png)
 
-![系统推荐的番剧](系统推荐的番剧.png)
+![系统推荐的番剧](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/系统推荐的番剧.png)
 
 
 
@@ -71,7 +69,7 @@ typora-root-url: images/
 
 ### 2015~2017三年的b站番剧总数的对比
 
-![bilibili年度番剧总数](bilibili年度番剧总数.png)
+![bilibili年度番剧总数](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/bilibili年度番剧总数.png)
 
 从表中可以看出，b站每年的番剧量平均大约是200部，每个季度50部，相比较于爱奇艺和优酷土豆，b站对动漫番剧区还是大力支持的。
 
@@ -81,13 +79,13 @@ typora-root-url: images/
 
 ### 2015~2017三年的b站番剧播放、追番数据对比
 
-![bilibili番剧平均评分](bilibili番剧平均评分.png)
+![bilibili番剧平均评分](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/bilibili番剧平均评分.png)
 
-![bilibili番剧平均播放量](bilibili番剧平均播放量.png)
+![bilibili番剧平均播放量](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/bilibili番剧平均播放量.png)
 
-![bilibili番剧平均弹幕量](bilibili番剧平均弹幕量.png)
+![bilibili番剧平均弹幕量](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/bilibili番剧平均弹幕量.png)
 
-![bilibili番剧平均追番人次i](bilibili番剧平均追番人次.png)
+![bilibili番剧平均追番人次i](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/bilibili番剧平均追番人次.png)
 
 通过统计信息可知，bilibili近3年的番剧平均评分大致相同（无评分的番剧没有纳入统计）。平均弹幕量和平均播放量的变化趋势基本相同，都是稳步增长。但是平均追番人次有着明显的差距，这三年间平均追番人次上涨得很快，2017年每部番的平均追番人次是2015年的两倍，这说明越来越多bilibili番剧区的用户覆盖范围越来越广。
 
@@ -97,19 +95,19 @@ typora-root-url: images/
 
 
 
-![bilibili热门类型番剧平均追番人数](bilibili热门类型番剧平均追番人数.png)
+![bilibili热门类型番剧平均追番人数](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/bilibili热门类型番剧平均追番人数.png)
 
 从统计数据可以看出，恋爱、后宫、热血、搞笑、日常等类型的番剧是用户们最喜爱的类型。
 
 
 
-![bilibili热门类型番剧总数](bilibili热门类型番剧总数.png)
+![bilibili热门类型番剧总数](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/bilibili热门类型番剧总数.png)
 
 从统计数据可以看出，b站最多的番是热血、奇幻、战斗、日常等类型的番剧，基本迎合用户们喜爱的口味，值得注意的是用户们十分喜爱的恋爱和后宫类型的番剧在b站中数量并不多。
 
 
 
-![bilibili热门类型番剧平均评分](bilibili热门类型番剧平均评分.png)
+![bilibili热门类型番剧平均评分](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/bilibili热门类型番剧平均评分.png)
 
 从统计数据中可以看出，各个类型的番剧质量比较接近，但追番人数最多的后宫类型的番剧评分却比较低，主要因为这类类型的番剧大多是轻改的动漫，有一个成型的模板，故事的剧情和人物形象都很模板化，虽然用户喜欢看，但也认为这些作品没有什么亮点，评分自然也就上不去。
 
@@ -119,9 +117,9 @@ typora-root-url: images/
 
 
 
-![bilibili番剧评分分布](bilibili番剧评分分布.png)
+![bilibili番剧评分分布](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/bilibili番剧评分分布.png)
 
-![bilibili番剧评分分布(饼图)](bilibili番剧评分分布(饼图).png)
+![bilibili番剧评分分布(饼图)](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/bilibili番剧评分分布(饼图).png)
 
 从评分的分布中可以看出，大多数用户对番剧的评分都很高，大部分番剧的评分都在8.0甚至9.0以上，这和豆瓣之类的评分网站相比，可以说评分都不是很严苛。所以我们可以初步认为那些评分<8.0分的番是用户们公认的“差评番”。
 
@@ -129,7 +127,7 @@ typora-root-url: images/
 
 
 
-![bilibili番剧评分低于8.0分的比例统计](bilibili番剧评分低于8.0分的比例统计.png)
+![bilibili番剧评分低于8.0分的比例统计](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/bilibili番剧评分低于8.0分的比例统计.png)
 
 从数据中可以看窗户，差评率最多的番剧类型是泡面和科幻类型的番。泡面番因其时间过于段的原因，用户给其评分时，一般不会给比较高的评分。科幻类型的番剧容易高开低走，在开始的时候营造一个很庞大的世界观，但编剧无法驾驭其应有的剧情，结局就草草收尾，导致用户对其印象很差，评分自然不高。相比之下治愈、恋爱、励志这些描述生活和业界的番剧，引起了很多用户的共鸣，评分用户对它们的印象也就很好。
 
@@ -139,21 +137,21 @@ typora-root-url: images/
 
 * **2015年**
 
-![2015年bilibili番剧评分最高TOP5](2015年bilibili番剧评分最高TOP5.png)
+![2015年bilibili番剧评分最高TOP5](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/2015年bilibili番剧评分最高TOP5.png)
 
-![2015年bilibili番剧评分最低TOP5](2015年bilibili番剧评分最低TOP5.png)
+![2015年bilibili番剧评分最低TOP5](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/2015年bilibili番剧评分最低TOP5.png)
 
 * **2016年**
 
-![2016年bilibili番剧评分最高TOP5](2016年bilibili番剧评分最高TOP5.png)
+![2016年bilibili番剧评分最高TOP5](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/2016年bilibili番剧评分最高TOP5.png)
 
-![2016年bilibili番剧评分最低TOP5](2016年bilibili番剧评分最低TOP5.png)
+![2016年bilibili番剧评分最低TOP5](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/2016年bilibili番剧评分最低TOP5.png)
 
 * **2017年**
 
-![2017年bilibili番剧评分最高TOP5](2017年bilibili番剧评分最高TOP5.png)
+![2017年bilibili番剧评分最高TOP5](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/2017年bilibili番剧评分最高TOP5.png)
 
-![2017年bilibili番剧评分最低TOP5](2017年bilibili番剧评分最低TOP5.png)
+![2017年bilibili番剧评分最低TOP5](https://github.com/cjdjr/bilibili-anime-analysis/blob/master/images/2017年bilibili番剧评分最低TOP5.png)
 
 
 
