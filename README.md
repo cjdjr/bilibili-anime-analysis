@@ -1,5 +1,5 @@
 ---
-typora-root-url: /images
+typora-root-url: blob/master/
 ---
 
 # bilibili番剧分析
